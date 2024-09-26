@@ -1,23 +1,3 @@
 # use-external-js-in-vue
 
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+不想因为一点小的变动就重新发布代码？借助webpack的externals配置或许是一个不错的选择！
